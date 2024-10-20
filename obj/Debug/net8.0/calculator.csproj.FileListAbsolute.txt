@@ -1,0 +1,15 @@
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\bin\Debug\net8.0\calculator.exe
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\bin\Debug\net8.0\calculator.deps.json
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\bin\Debug\net8.0\calculator.dll
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\bin\Debug\net8.0\calculator.pdb
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.dll
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\refint\calculator.dll
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.pdb
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\ref\calculator.dll
+c:\Users\the_r\OneDrive\سطح المكتب\calculator\obj\Debug\net8.0\calculator.sourcelink.json
